@@ -1,4 +1,4 @@
-package org.exemple.observer;
+package observer;
 
 public class LoggerObserver implements Observer {
     @Override

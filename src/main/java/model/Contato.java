@@ -1,4 +1,4 @@
-package org.exemple.model;
+package model;
 
 public class Contato {
     private int id;

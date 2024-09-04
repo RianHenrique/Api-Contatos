@@ -1,4 +1,4 @@
-package org.exemple.observer;
+package observer;
 
 public interface Subject {
     void addObserver(Observer observer);
